@@ -6,5 +6,5 @@ def find_max_value(array)
     count += 1
   end
   array_copy.sort!
-  puts array_copy.last
+  array_copy.last
 end
